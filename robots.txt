@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Point to your sitemap so Google finds your articles faster
+Sitemap: https://george.github.io/cultural-documentary-archive/sitemap.xml
